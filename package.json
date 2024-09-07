@@ -1,20 +1,17 @@
 {
   "name": "interactiveresume_",
   "version": "1.0.0",
-  "description": "Interactive Resume Builder using TypeScript.",
-  "main": "script.js", 
-  "engines": {
-    "node": "20.x"
-  },
-  "scripts": {
-    "build": "npx tsc script.ts",
-    "start": "node script"
-  },
+  "description": "Welcome to our hackathon project, which consists of two parts: an **Interactive Resume Builder** and an **Inventory Management System**. This project leverages modern web technologies like **Next.js** with **TypeScript** and WebSockets to create interactive, dynamic, and user-friendly applications.",
+  "main": "index.js",
+ "scripts": {
+  "build": "tsc"
+}
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.5.4",
-    "@types/node": "^22.5.4"
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
   }
 }
