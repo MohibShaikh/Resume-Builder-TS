@@ -4,7 +4,7 @@
   "description": "Welcome to our hackathon project, which consists of two parts: an **Interactive Resume Builder** and an **Inventory Management System**. This project leverages modern web technologies like **Next.js** with **TypeScript** and WebSockets to create interactive, dynamic, and user-friendly applications.",
   "main": "script.js",
   "engines": {
-   "node": "16.x"
+   "node": "16.2"
 }
 ,
 "scripts": {
