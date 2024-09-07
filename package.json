@@ -2,7 +2,7 @@
   "name": "interactiveresume_",
   "version": "1.0.0",
   "description": "Welcome to our hackathon project, which consists of two parts: an **Interactive Resume Builder** and an **Inventory Management System**. This project leverages modern web technologies like **Next.js** with **TypeScript** and WebSockets to create interactive, dynamic, and user-friendly applications.",
-  "main": "index.js",
+  "main": "script.js",
  "scripts": {
   "build": "tsc"
 }

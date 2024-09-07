@@ -1,9 +1,5 @@
-// {
-//     "builds": [
-//       {
-//         "src": "script.ts",
-//         "use": "@vercel/node"
-//       }
-//     ],
-//     "rewrites": [{ "source": "/(.*)", "destination": "/" }]
-//   }
+{
+  "rewrites":  [
+    {"source": "/(.*)", "destination": "/"}
+  ]
+}
